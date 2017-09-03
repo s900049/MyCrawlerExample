@@ -12,7 +12,7 @@ public class FBElasticImport {
 
     static String elasticHost = "dyn.gibar.co" ;
     static String elasticPort = "9200" ;
-    static String elasticIndex = "YourGitHubID";
+    static String elasticIndex = "s900049";
     static String elasticIndexType = "data";
     static String pageName = "JudgeAd";
     // 2017-09-02
